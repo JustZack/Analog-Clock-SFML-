@@ -1,0 +1,22 @@
+﻿  main.cpp
+  Clock.cpp
+c:\users\just_zack\desktop\analogclock\analogclock\clock.cpp(7): warning C4244: '=': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\just_zack\desktop\analogclock\analogclock\clock.cpp(8): warning C4244: '=': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\just_zack\desktop\analogclock\analogclock\clock.cpp(28): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\just_zack\desktop\analogclock\analogclock\clock.cpp(29): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\just_zack\desktop\analogclock\analogclock\clock.cpp(92): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\just_zack\desktop\analogclock\analogclock\clock.cpp(110): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\just_zack\desktop\analogclock\analogclock\clock.cpp(114): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\just_zack\desktop\analogclock\analogclock\clock.cpp(115): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\just_zack\desktop\analogclock\analogclock\clock.cpp(122): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\just_zack\desktop\analogclock\analogclock\clock.cpp(211): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\just_zack\desktop\analogclock\analogclock\clock.cpp(233): warning C4244: '=': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\just_zack\desktop\analogclock\analogclock\clock.cpp(234): warning C4244: '=': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\just_zack\desktop\analogclock\analogclock\clock.cpp(240): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\just_zack\desktop\analogclock\analogclock\clock.cpp(241): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\just_zack\desktop\analogclock\analogclock\clock.cpp(246): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\just_zack\desktop\analogclock\analogclock\clock.cpp(263): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\just_zack\desktop\analogclock\analogclock\clock.cpp(267): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  AnalogClock.vcxproj -> C:\Users\Just_Zack\Desktop\AnalogClock\x64\Debug\AnalogClock.exe
+  AnalogClock.vcxproj -> C:\Users\Just_Zack\Desktop\AnalogClock\x64\Debug\AnalogClock.pdb (Partial PDB)
